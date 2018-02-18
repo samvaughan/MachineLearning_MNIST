@@ -1,3 +1,5 @@
+#Neural Networks with `numpy` and `TensorFlow`
+
 A pure `numpy` and `tensorflow` implementation of a Neural Network for classifying the MNIST digits. 
 
 The numpy version gets to ~95% accuracy with just one hidden layer and 30 neurons. The TensorFlow version gets to 98% with two hidden layers (300 and 100 neurons each) and dropout layers. 
