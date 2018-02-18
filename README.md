@@ -1,4 +1,4 @@
-#Neural Networks with `numpy` and `TensorFlow`
+# Neural Networks with `numpy` and `TensorFlow`
 
 A pure `numpy` and `tensorflow` implementation of a Neural Network for classifying the MNIST digits. 
 
