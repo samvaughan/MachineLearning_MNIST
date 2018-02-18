@@ -1,0 +1,5 @@
+*.npy
+TensorFlow/tf_logs/*
+*ckpt*
+*checkpoint*
+*.pyc
